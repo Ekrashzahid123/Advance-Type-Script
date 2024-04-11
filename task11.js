@@ -30,7 +30,7 @@ transportation.forEach((transportation) => {
 /*Guest List: If you could invite anyone, living or deceased, to dinner,
  who would you invite? Make a list that includes at least three people you’d like to
   invite to dinner. Then use your list to print a message to each person, inviting them to dinner.*/
-let invitation = ["InhalFatima", "MuhammadHamza", "muhammadTalha"];
-invitation.forEach((transportation) => {
-    console.log(`You are invited ${invitation} to the party`);
+let invitation = ["Inhal", "Hamza", "Talha"];
+invitation.forEach((invitation) => {
+    console.log(`Dear ${invitation},\nYou are cordially invited to dinner at my place. Please let me know if you can attend.t`);
 });
