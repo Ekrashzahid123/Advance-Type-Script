@@ -32,6 +32,7 @@ transportation.forEach((transportation) => {
   invite to dinner. Then use your list to print a message to each person, inviting them to dinner.*/
   let invitation:string[] = ["Inhal", "Hamza", "Talha"];
   invitation.forEach((invitation) => {
-    console.log(`Dear ${invitation},\nYou are cordially invited to dinner at my place. Please let me know if you can attend.t`);
+    console.log(`Dear ${invitation},\nYou are cordially invited to dinner at my place. Please let me know if you can attend.`);
   });
   
+//hello worl
